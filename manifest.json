@@ -1,0 +1,13 @@
+{
+  "codeowners": [
+    "@ArnyminerZ"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/ArnyminerZ/HomeAssistant-Meteoclimatic",
+  "domain": "meteoclimatic",
+  "name": "Meteoclimatic",
+  "requirements": [
+    "pymeteoclimatic==0.0.6"
+  ]
+}

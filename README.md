@@ -1,0 +1,1 @@
+# Meteoclimatic for Home Assistant

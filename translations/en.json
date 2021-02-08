@@ -1,0 +1,16 @@
+{
+  "config": {
+    "error": {
+      "code": "The code introduced is not valid."
+    },
+    "step": {
+      "user": {
+        "title": "Meteoclimatic station",
+        "description": "Enter the station's code. e.g. ESCAT4300000043206B",
+        "data": {
+          "station": "Station Code"
+        }
+      }
+    }
+  }
+}
